@@ -19,6 +19,7 @@
 ## 🎓 School projects
 * Reddit like forum: https://github.com/ozon2/jlailu <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height=20 valign=text-bottom>
 * Arcade game: https://github.com/rmalmain/Knight_Wars <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height=20 valign=text-bottom>
+* A mini operating system for x86 : https://github.com/ozon2/n7os <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height=20 valign=text-bottom>
 * Connect a joystick to a FPGA
 using the SPI protocol: https://github.com/ozon2/project-spi-protocol <img src="https://raw.githubusercontent.com/SublimeText/AFileIcon/master/icons/svg/file_type_vhdl.svg" alt="VHDL" height=20 valign=text-bottom>
 * Family trees: https://github.com/ozon2/family-tree <img src="https://raw.githubusercontent.com/actions/starter-workflows/main/icons/ada.svg" alt="Ada" height=20 valign=text-bottom>
