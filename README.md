@@ -1,6 +1,6 @@
 # Hi there, I'm  Ozon 👋
 
-- I'm a developer and an engineering student
+- I'm a DevOps engineer
 - I use <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Archlinux" height="20" valign=text-bottom/> btw
 
 ## 🖥️ Languages and Tools I use:
